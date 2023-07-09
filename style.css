@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    text-align: center;
+    width: 90%;
+    margin-top: 2%;
+    padding: 10px;
+    
+
+}
+
+.liste-style {
+    list-style-position: inside;
+}
+
+.link-style {
+    color: slateblue;
+    font-size: medium;
+
+}
+
+.baslik {
+    color: indianred;
+    font-size: xx-large;
+}
+
+.baslik-1 {
+    color: firebrick ;
+    font-size: xx-large;
+
+}
+
+.baslik-2{
+   color: brown;
+   font-size: medium;
+}
